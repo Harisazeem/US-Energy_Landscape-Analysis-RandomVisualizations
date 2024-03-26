@@ -4,6 +4,7 @@
 
 Note: A few saved visualizations have also been added to the repository for review. 
 
-1. Open the .ipynb file in google colab.
-2. Add all the data files (.csv) files in the file folder for google colab.
-3. Run the script to view the visualizations
+1. View the sample visualizations in form of png and html files.
+2. Open the .ipynb file in google colab.
+3. Add all the data files (.csv) files in the file folder for google colab.
+4. Run the script to view the visualizations
